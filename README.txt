@@ -14,8 +14,9 @@ Kirby's-Adventure-styled HUD.
 The information for the "Fluffy Repair Service" hack has been copied 
 from the RHDN README file and pasted below. I hope you enjoy!
 
-CREDITS: I will attritribute this patch to "minucce", as that's who is credited on RHDN, 
-though I want to offer a huge "Thank You!" to whoever developed this patch.
+CREDITS: I will attribute the Fluffy Repair Service patch to "minucce", as that's 
+who is credited on RHDN, though I want to offer a huge "Thank You!" to whoever 
+developed that patch.
 
 INFORMATION ABOUT FLUFFY REPAIR SERVICE:
 Graphics and engine fixes for "Kirby's Dream Land DX Color hack"
