@@ -3,14 +3,6 @@ The download was recently removed from romhacking.net, so I figured I would make
 a backup for anyone out there looking to apply this wonderful project to the base 
 DX hack for KDL. 
 
-///////////////////////////////////////////////////////////////////////////////////
-NOTE: I could not find a standalone version of the Fluffy Repair Service patch, so 
-I have included a patch that has the base DX hack, the Revised hack, and the 
-Fluffy Repair Service hack all rolled into one, so this will be all you need.
-I'm very sorry that I do not have the "Plus" version available with the 
-Kirby's-Adventure-styled HUD.
-///////////////////////////////////////////////////////////////////////////////////
-
 The information for the "Fluffy Repair Service" hack has been copied 
 from the RHDN README file and pasted below. I hope you enjoy!
 
